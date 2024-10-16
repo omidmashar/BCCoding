@@ -1,0 +1,18 @@
+{
+  "id": "6a46d0f5-2a27-493a-8c6d-7b73c0769b6a",
+  "name": "MyALProject",
+  "publisher": "Default publisher",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "20.0.0.0",
+  "runtime": "9.0"
+}
